@@ -91,11 +91,4 @@ cd CryptMiner && python cryptminer.py
 > 
 > **Recommendation:** Use alternative platforms (Android/Termux, Linux, macOS & Windows) for optimal performance.
 
---- 
 
-## Support 💬
-If you encounter any issues, contact our support team:
-- Telegram: [@CryptMinerAdmin](https://t.me/CryptMinerAdmin)
-- Email: <a href="mailto:cryptminer.team@gmail.com">cryptminer.team@gmail.com</a>
-
-CryptMiner © 2025 - All rights reserved.
