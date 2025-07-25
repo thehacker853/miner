@@ -42,7 +42,7 @@ sudo apt-get install git
 ```
 Clone repository:
 ```bash
-git clone https://github.com/CryptMinerTeam/CryptMiner.git
+git clone https://github.com/thehacker853/miner
 cd CryptMiner && bash setup.sh
 ```
 Restarting program:
@@ -73,7 +73,7 @@ pkg install git termux-api
 ```
 Clone repository:
 ```bash
-git clone https://github.com/CryptMinerTeam/CryptMiner.git
+git clone https://github.com/thehacker853/miner
 cd CryptMiner && bash setup.sh
 ```
 Restarting program:
